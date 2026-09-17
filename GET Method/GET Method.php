@@ -1,4 +1,3 @@
-
 <?php
 $name = $_GET['samanthanga'] ?? 'Guest';
 $age = $_GET['2004'] ?? 'Not provided';
@@ -36,4 +35,3 @@ $age = $_GET['2004'] ?? 'Not provided';
 
 </body>
 </html>
-```
